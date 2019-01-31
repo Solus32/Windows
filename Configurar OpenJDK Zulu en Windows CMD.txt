@@ -1,0 +1,16 @@
+﻿OpenJDK Zulu Windows
+--------------------
+
+
+1. Dar click en boton Derecho del Mouse en el Icono de Inicio
+2. Dar click en Sistema
+3. Configuración avanzada del sistema
+4. Seleccionar Variables de entorno...
+5. Click en Nuevo en Variables de usuario para x usuario
+
+	Nombre de la variable:	 JAVA_HOME
+	Valor de la variable:	 C:\Program Files\Zulu\zulu-8
+
+
+	Nombre de la variable:	 PATH
+	Valor de la variable: 	 ;C:\Program Files\Zulu\zulu-8\bin

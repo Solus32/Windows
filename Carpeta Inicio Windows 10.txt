@@ -1,0 +1,16 @@
+#############################
+### Para el Usuario Local ###
+#############################
+
+win+R
+
+shell:startup
+
+
+###############################
+### Para todos los usuarios ###
+###############################
+
+win+R
+
+shell:common startup

@@ -1,0 +1,7 @@
+win+d ---> Muestra Escritorio, y presionar otra vez nos devuelve a la ventana que estabamos
+
+wind+L --> Bloquea la Pantalla
+
+win+E --> Explorador de Archivos
+
+win+i --> Configurador de Windows 
