@@ -1,0 +1,4 @@
+1. Boton Derecho del Mouse -> Personalizar
+2. Lado Izquierod inFerior -> Pantalla
+3. Seleccionar Dejarme elegir un nivel de ajuste de escala para todas mis pantallas
+4. Seleccionar Mediano:125%

@@ -1,0 +1,13 @@
+Cambiar Reloj a 24 Hrs en Windows 8.1
+-------------------------------------
+
+
+1. Panel De Control
+
+2. Región
+
+3. Configuración Adicional --> Ir a la Pestaña de Hora
+
+	En Hora corta poner: HH:mm
+
+	En Hora larga poner: HH:mm:ss
