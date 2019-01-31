@@ -1,5 +1,6 @@
-﻿OpenJDK Zulu Windows
---------------------
+############################
+### OpenJDK Zulu Windows ###
+############################
 
 
 1. Dar click en boton Derecho del Mouse en el Icono de Inicio
