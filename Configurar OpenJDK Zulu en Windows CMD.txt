@@ -11,9 +11,9 @@
 	Nombre de la variable:	 PATH
 	Valor de la variable: 	 ;C:\Program Files\Zulu\zulu-8\bin
 
-#############################
-#### Configurar JAVA_HOME ###
-#############################
+############################
+### Configurar JAVA_HOME ###
+############################
 
 1. Dar click en boton Derecho del Mouse en el Icono de Inicio
 2. Dar click en Sistema
@@ -28,3 +28,21 @@
 	echo %JAVA_HOME%
 	
 Y nos va a dar la ruta de JAVA eg. C:\Program Files\Zulu\zulu-8
+
+###########################
+### Configurar JRE_HOME ###
+###########################
+
+1. Dar click en boton Derecho del Mouse en el Icono de Inicio
+2. Dar click en Sistema
+3. Configuración avanzada del sistema
+4. Seleccionar Variables de entorno...
+5. Click en Nuevo en Variables del sistema
+
+	Nombre de la variable:	 JRE_HOME
+	Valor de la variable:	 C:\Program Files\Zulu\zulu-8\jre
+
+6. Abrir CMD, si esta abierto CMD; cerrarlo.
+	echo %JRE_HOME%
+	
+Y nos va a dar la ruta de JAVA eg. C:\Program Files\Zulu\zulu-8\jre
