@@ -2,7 +2,6 @@
 ### OpenJDK Zulu Windows ###
 ############################
 
-
 1. Dar click en boton Derecho del Mouse en el Icono de Inicio
 2. Dar click en Sistema
 3. Configuración avanzada del sistema
