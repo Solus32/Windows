@@ -24,7 +24,7 @@
 	Nombre de la variable:	 JAVA_HOME
 	Valor de la variable:	 C:\Program Files\Zulu\zulu-8
 
-6. Abrir CMD, si esta abierto CMD cerrarlo
+6. Abrir CMD, si esta abierto CMD; cerrarlo.
 	echo %JAVA_HOME%
 	
 Y nos va a dar la ruta de JAVA eg. C:\Program Files\Zulu\zulu-8
