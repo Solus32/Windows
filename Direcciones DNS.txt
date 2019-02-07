@@ -1,0 +1,58 @@
+﻿########################
+### DNS de Cloudfare ###
+########################
+
+Este es más rápido que el de Google
+
+	################
+	### TCP/IPv4 ###
+	################
+
+Servidor DNS preferido:
+
+	1.1.1.1
+
+Servidor DNS alternativo:
+
+	1.0.0.1
+
+	################
+	### TCP/IPv6 ###
+	################
+
+Servidor DNS preferido:
+	
+	2606:4700:4700::1111
+
+Servidor DNS alternativo:
+
+	2606:4700:4700::1001
+
+
+#####################
+### DNS de Google ###
+#####################
+
+	################
+	### TCP/IPv4 ###
+	################
+
+Servidor DNS preferido:
+
+	8.8.8.8
+
+Servidor DNS alternativo:
+
+	8.8.4.4
+
+	################
+	### TCP/IPv6 ###
+	################
+
+Servidor DNS preferido:
+	
+	2001:4860:4860::8888
+
+Servidor DNS alternativo:
+
+	2001:4860:4860::8844

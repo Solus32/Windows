@@ -1,0 +1,11 @@
+﻿1. Inicio
+2. Configuración
+3. Internet y Red
+4. Cambiar opciones de adaptador
+5. Seleccionar Wi-Fi o Ethernet --> Boton derecho del mouse --> Propiedades
+6. Buscar y Seleccionar:
+	Habilitar el protocolo de INternet version 4 (TCP/IPv4)
+	Habilitar el protocolo de INternet version 6 (TCP/IPv6)
+7. Dar click en propiedades
+8. Click --> Usar las siguientes direcciones de servidor DNS
+9. Escribir las direcciones IP
