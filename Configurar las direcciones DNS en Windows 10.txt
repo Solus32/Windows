@@ -9,3 +9,6 @@
 7. Dar click en propiedades
 8. Click --> Usar las siguientes direcciones de servidor DNS
 9. Escribir las direcciones IP
+10. Abrir CMD como Administrador de Sistema; escribir esto:
+        ipconfig /flushdns
+11. Reiniciar
