@@ -1,0 +1,26 @@
+###########################
+### RedShift en Windows ###
+###########################
+
+
+Crear la Carpeta RedShift en C:\Program Files\RedShift
+
+y Crear Accesos Directos con el Destino:
+
+Eliminar Luz Azul
+	Destino:
+"C:\Program Files\RedShift\redshift.exe" -l 19.4284:-99.1276 -t 5700:3500
+
+Desactivar RedShift
+	Destino:
+"C:\Program Files\RedShift\redshift.exe" -x
+
+
+###################################################
+### Para que inicie cada vez que inicia Windows ###
+###################################################
+
+Poner el acceso Directo la Carpeta Startup
+
+Win+R --> shell:startup
+
