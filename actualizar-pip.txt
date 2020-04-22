@@ -1,0 +1,6 @@
+python -m pip install -U pip
+python -m pip install -U setuptools
+python -m pip install -U cfscrape
+
+
+Ejecutar en CMD en Modo Administrador
